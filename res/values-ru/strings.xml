@@ -17,6 +17,24 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--  Do not translate. -->
+    <string name="dialpad_2_letters">АБВГ</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_3_letters">ДЕЖЗ</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_4_letters">ИЙКЛ</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_5_letters">МНОП</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_6_letters">РСТУ</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_7_letters">ФХЦЧ</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_8_letters">ШЩЪЫ</string>
+    <!--  Do not translate. -->
+    <string name="dialpad_9_letters">ЬЭЮЯ</string>
+
     <string name="description_dialpad_back" msgid="8370856774250260053">"Вернуться"</string>
     <string name="description_dialpad_overflow" msgid="4853244877599437286">"Ещё"</string>
     <string name="description_delete_button" msgid="88733669653753441">"Клавиша Backspace."</string>
