@@ -117,11 +117,23 @@
   <!-- Text for CallFailCause.MESSAGE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 101 -->
   <string name="callFailed_message_not_compatible_with_protocol_state">Melding er ikke kompatibel med protokolltilstanden</string>
   <!-- Text for CallFailCause.RECOVERY_ON_TIMER_EXPIRED = 102 -->
-  <string name="callFailed_recovery_on_timer_expired">Gjenoppretting på tidtakeren utløp</string>
+  <string name="callFailed_recovery_on_timer_expired">Gjenoppretting ved tidtakerens utløp</string>
   <!-- Text for CallFailCause.PROTOCOL_ERROR_UNSPECIFIED = 111 -->
   <string name="callFailed_protocol_error_unspecified">Protokollfeil, uspesifisert</string>
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
   <string name="callFailed_interworking_unspecified">Interworking, uspesifisert</string>
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
   <string name="callFailed_non_selected_user_clearing">Ikke valgt brukerklarering</string>
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
+  <!--  Do not translate. -->
 </resources>
